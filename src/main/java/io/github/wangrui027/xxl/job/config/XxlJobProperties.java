@@ -1,4 +1,4 @@
-package com.github.wangrui027.xxl.job.config;
+package io.github.wangrui027.xxl.job.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

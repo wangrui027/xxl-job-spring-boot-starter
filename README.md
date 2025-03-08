@@ -15,7 +15,7 @@ xxl-job 源码：[https://github.com/xuxueli/xxl-job/](https://github.com/xuxuel
 
 ```xml
 <dependency>
-    <groupId>com.github.wangrui027</groupId>
+    <groupId>io.github.wangrui027</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
     <version>2.5.0</version>
 </dependency>
