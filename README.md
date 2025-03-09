@@ -24,7 +24,7 @@ xxl-job SpringBoot 启动器，开箱即用。引入依赖，配置参数，立�
 ```yaml
 xxl:
   job:
-    disabled: false # disabled 不配时则表示开启
+    disabled: false # disabled 不配或配置为 false 时则表示开启
     admin:
       addresses: http://xx.xx.xx.xx:8020/xxl-job-admin
       accessToken: xxx
@@ -41,7 +41,7 @@ xxl:
 ✅ application.properties 示例：
 
 ```properties
-# disabled 不配时则表示开启
+# disabled 不配或配置为 false 时则表示开启
 xxl.job.admin.disabled=false
 xxl.job.admin.addresses=http://xx.xx.xx.xx:8020/xxl-job-admin
 xxl.job.admin.accessToken=xxx
