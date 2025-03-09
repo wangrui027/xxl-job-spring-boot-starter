@@ -6,7 +6,7 @@
 
     <groupId>io.github.wangrui027</groupId>
     <artifactId>xxl-job-spring-boot-starter</artifactId>
-    <version>2.5.0.1</version>
+    <version>2.5.0-2</version>
 
     <url>https://github.com/wangrui027/xxl-job-spring-boot-starter</url>
     <description>
